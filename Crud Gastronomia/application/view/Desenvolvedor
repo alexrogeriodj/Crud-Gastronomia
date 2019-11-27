@@ -1,0 +1,9 @@
+<form>
+    Link do seu WebSite: <input type="url" name="webpage">
+</form>
+
+Escolha o horário: <input type="time" name="usr_horario">
+
+<form>
+    Selecione uma semana: <input type="week" name="semana">
+</form>
